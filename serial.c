@@ -9,7 +9,6 @@
  *
  */
 
-
 // This file holds all routines relevant to serial communication
 
 #include <avr/io.h>
